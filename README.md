@@ -1,44 +1,45 @@
-# 🛒 OpenCart Manual Testing Project
+#  OpenCart Manual Testing Project
 
-##  Project Overview
-This project focuses on manual testing of the OpenCart e-commerce platform. It covers core functionalities such as user registration, login, product search, cart operations, and checkout flow.
+This is a manual testing project for the OpenCart e-commerce platform. It includes well-structured test scenarios, detailed test cases, bug reports, and a comprehensive test plan — all documented using Excel and Markdown.
 
-##  Objective
-To validate the functional behavior of OpenCart modules using manual testing techniques and document all test scenarios, test cases, and bugs.
+---
 
-##  Testing Scope
+##  Project Screenshots
 
-### ✅ Included:
-- User Registration & Login
-- Product Search & Filter
-- Add to Cart & Checkout
-- Admin Login & Product Management
+### 📋 Sample Test Scenarios 
+<img width="1366" height="693" alt="Test Scenario" src="https://github.com/user-attachments/assets/7aac5a1a-e99c-42de-8cce-76c6d29726f2" />
 
-### ❌ Excluded:
-- Performance Testing
-- Security Testing
-- Third-party integrations
 
-##  Project Deliverables
+### 🧾 Sample Test Case 
+<img width="1366" height="701" alt="Test Cases" src="https://github.com/user-attachments/assets/8d0cce81-9fdd-44c5-8ac8-06e0a2a4d817" />
 
-| File | Description |
-|------|-------------|
-| `OpenCart-TestScenarios.xlsx` | High-level test scenarios |
-| `OpenCart-TestCases.xlsx` | Detailed test cases with steps and expected results |
-| `OpenCart-BugReport.xlsx` | Logged defects with severity and status |
-| `TestPlan.md` | Complete test plan document in markdown format |
 
-##  Test Environment
-- **Browser:** Chrome v117+, Firefox v115+
-- **OS:** Windows 10
-- **Test Data:** Dummy user credentials and product entries
+### 🐞 Bug Report Snapshot  
+<img width="1366" height="698" alt="Bug Report" src="https://github.com/user-attachments/assets/883f2ce3-a600-4a42-a95d-2d2de19c53e9" />
 
-##  Test Approach
-Manual testing was performed using scenario-based and exploratory techniques. Both positive and negative test cases were executed. Bugs were logged in Excel with severity tagging.
 
-##   How to View Files
-All Excel files are available in the `excel/` folder.  
-Test Plan is available in the `docs/` folder.
+---
+
+##  Tools Used
+
+- Excel for writing test cases, scenarios, and bug reports  
+- Markdown for test plan documentation  
+- VS Code for editing and organizing files  
+- GitHub for project hosting and version control
+
+---
+
+##  Features
+
+- Manual test scenarios covering core OpenCart modules  
+- Step-by-step test cases with expected vs actual results  
+- Bug reporting with severity and status  
+- Clean folder structure and documentation  
+- Easy-to-navigate GitHub layout
+
+---
+
+##  Folder Structure
 
 ```plaintext
 OpenCart-Manual-Testing/
@@ -46,15 +47,27 @@ OpenCart-Manual-Testing/
 ├── README.md
 ├── docs/
 │   └── TestPlan.md
-│
 ├── excel/
 │   ├── OpenCart-TestScenarios.xlsx
 │   ├── OpenCart-TestCases.xlsx
 │   └── OpenCart-BugReport.xlsx
+├── assets/
+│   ├── testcase-sample.png
+│   ├── testscenario-sample.png
+│   └── bugreport-sample.png
 ```
-##  Author
+##  How to View This Project
 
-**Name:** Vishnu Pathak  
+- Open Excel files from the `excel/` folder  
+- View the test plan in `docs/TestPlan.md`  
+- Screenshots are available in the `assets/` folder  
+- No setup required — this is a documentation-only manual testing project
+
+ ##  Author & Contact
+
+**Name:** Vishnu Pathak
 **Role:** Manual Tester  
 **Tools Used:** Excel, JIRA, VS Code  
-**Goal:** Showcasing Manual Testing Skills 
+📧 **Email:** [vishnupathak8077.a@gmail.com]  
+🔗 **GitHub:** [vishnupathak2005](https://github.com/vishnupathak2005)
+
