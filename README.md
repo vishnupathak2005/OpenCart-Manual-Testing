@@ -51,3 +51,10 @@ OpenCart-Manual-Testing/
 │   ├── OpenCart-TestScenarios.xlsx
 │   ├── OpenCart-TestCases.xlsx
 │   └── OpenCart-BugReport.xlsx
+```
+## 🙋‍♂️ Author
+
+**Name:** Vishnu Pathak  
+**Role:** Manual Tester  
+**Tools Used:** Excel, JIRA, VS Code  
+**Goal:** Showcasing Manual Testing Skills 
