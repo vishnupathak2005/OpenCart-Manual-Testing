@@ -1,12 +1,12 @@
 # 🛒 OpenCart Manual Testing Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on manual testing of the OpenCart e-commerce platform. It covers core functionalities such as user registration, login, product search, cart operations, and checkout flow.
 
-## 🎯 Objective
+##  Objective
 To validate the functional behavior of OpenCart modules using manual testing techniques and document all test scenarios, test cases, and bugs.
 
-## 🧪 Testing Scope
+##  Testing Scope
 
 ### ✅ Included:
 - User Registration & Login
@@ -19,7 +19,7 @@ To validate the functional behavior of OpenCart modules using manual testing tec
 - Security Testing
 - Third-party integrations
 
-## 📂 Project Deliverables
+##  Project Deliverables
 
 | File | Description |
 |------|-------------|
@@ -28,15 +28,15 @@ To validate the functional behavior of OpenCart modules using manual testing tec
 | `OpenCart-BugReport.xlsx` | Logged defects with severity and status |
 | `TestPlan.md` | Complete test plan document in markdown format |
 
-## 🧑‍💻 Test Environment
+##  Test Environment
 - **Browser:** Chrome v117+, Firefox v115+
 - **OS:** Windows 10
 - **Test Data:** Dummy user credentials and product entries
 
-## 🧠 Test Approach
+##  Test Approach
 Manual testing was performed using scenario-based and exploratory techniques. Both positive and negative test cases were executed. Bugs were logged in Excel with severity tagging.
 
-## 📄 How to View Files
+##   How to View Files
 All Excel files are available in the `excel/` folder.  
 Test Plan is available in the `docs/` folder.
 
@@ -52,7 +52,7 @@ OpenCart-Manual-Testing/
 │   ├── OpenCart-TestCases.xlsx
 │   └── OpenCart-BugReport.xlsx
 ```
-## 🙋‍♂️ Author
+##  Author
 
 **Name:** Vishnu Pathak  
 **Role:** Manual Tester  
